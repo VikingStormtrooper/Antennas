@@ -1,5 +1,6 @@
 # Antennas
 A collection of antennas for KSP!
+http://forum.kerbalspaceprogram.com/index.php?/topic/155653-wip122-realisticcomponents-suite-01-30-17/
 v. 0.1.0
 -------------------------------------
 Developed and tested for KSP 1.2.2
