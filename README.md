@@ -1,7 +1,7 @@
 # Antennas
 A collection of antennas for KSP!
 http://forum.kerbalspaceprogram.com/index.php?/topic/155653-wip122-realisticcomponents-suite-01-30-17/
-v. 0.2.0
+v. 0.3.0
 -------------------------------------
 Developed and tested for KSP 1.2.2
 
@@ -11,14 +11,15 @@ INSTALLATION: Simply copy the Antennas folder in you KSP/GameData folder.
 
 Currently available antennas:
 
-4 m HGA.
+4 m HGA;
+Conical low gain antenna.
 
 Antennas to implement in future versions:
 
-LGA;
 MGA.
 
 CHANGELOG:
 
+v. 0.3.0 - Conical Low Gain Antenna added
 v. 0.2.0 - 4m High Gain Antenna fixed
 v. 0.1.0 - 4m High Gain Antenna added. Issues present!
