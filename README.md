@@ -12,6 +12,7 @@ INSTALLATION: Simply copy the Antennas folder in you KSP/GameData folder.
 Currently available antennas:
 
 4 m HGA.
+
 Antennas to implement in future versions:
 
 LGA;
