@@ -1,7 +1,7 @@
 # Antennas
 A collection of antennas for KSP!
 http://forum.kerbalspaceprogram.com/index.php?/topic/155653-wip122-realisticcomponents-suite-01-30-17/
-v. 0.1.0
+v. 0.2.0
 -------------------------------------
 Developed and tested for KSP 1.2.2
 
@@ -19,4 +19,5 @@ MGA.
 
 CHANGELOG:
 
+v. 0.2.0 - 4m High Gain Antenna fixed
 v. 0.1.0 - 4m High Gain Antenna added. Issues present!
